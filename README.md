@@ -1,2 +1,3 @@
-# mtc-infra-dev
-terraform Code for MTC
+
+# This dev terraform repository is for infra developers. 
+The infra was last modified by: Ian Shinbrot
